@@ -2,7 +2,7 @@ package br.ufpb.dcx.amigosecreto;
 
 import java.util.List;
 
-public class SistemaAmigoMapTest {
+public class SistemaAmigoMapTest extends SistemaAmigo {
     public static void main (String[] args) {
         SistemaAmigoMapTest sistema = new SistemaAmigoMapTest();
         try {
